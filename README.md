@@ -2,7 +2,7 @@
 
 This is an introduction to morphometric analysis in PlantCV using a pseudo-landmarking approach.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-homology-tutorial/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-homology-tutorials.git/HEAD)
 
 ## Tutorial tags/keywords
 
