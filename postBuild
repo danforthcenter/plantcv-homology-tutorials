@@ -3,3 +3,4 @@ cd plantcv
 python setup.py install
 cd ..
 rm -fr plantcv
+jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-matplotlib --dev-build=False --minimize=False
