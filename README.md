@@ -2,6 +2,8 @@
 
 This is an introduction to morphometric analysis in PlantCV using a pseudo-landmarking approach.
 
+**Author**: John Hodge
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-homology-tutorials/HEAD?filepath=index.ipynb)
 
 ## Tutorial tags/keywords
