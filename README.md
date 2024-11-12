@@ -1,5 +1,7 @@
 # De novo homology assessment from landmark data
 
+[![test-pr](https://github.com/danforthcenter/plantcv-homology-tutorials/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-homology-tutorials/actions/workflows/ci-tests.yml)
+
 This is an introduction to morphometric analysis in PlantCV using a pseudo-landmarking approach.
 
 **Author**: John Hodge
