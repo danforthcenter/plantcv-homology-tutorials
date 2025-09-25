@@ -7,7 +7,7 @@ def test_notebook(tmpdir):
     """Test the notebook."""
     tmp = tmpdir.mkdir('sub')
     # Open the notebook
-    with open("index.ipynb", "r") as f:
+    with open("index_plm_tutorial_1.ipynb", "r") as f:
         nb = nbformat.read(f, as_version=4)
 
     # Process the notebook
