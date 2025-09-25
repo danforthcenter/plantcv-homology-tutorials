@@ -7,7 +7,7 @@ def test_notebook(tmpdir):
     """Test the notebook."""
     tmp = tmpdir.mkdir('sub')
     # Open the notebook
-    with open("index_plm_tutorial_1.ipynb", "r") as f:
+    with open("acute_plm_tutorial_1.ipynb", "r") as f:
         nb = nbformat.read(f, as_version=4)
 
     # Process the notebook
@@ -26,7 +26,7 @@ def test_notebook2(tmpdir):
     """Test the notebook."""
     tmp = tmpdir.mkdir('sub')
     # Open the notebook
-    with open("index_plm_tutorial_2.ipynb", "r") as f:
+    with open("acute_plm_tutorial_2.ipynb", "r") as f:
         nb = nbformat.read(f, as_version=4)
 
     # Process the notebook
@@ -45,7 +45,7 @@ def test_notebook3(tmpdir):
     """Test the notebook."""
     tmp = tmpdir.mkdir('sub')
     # Open the notebook
-    with open("index_plm_tutorial_3.ipynb", "r") as f:
+    with open("acute_plm_tutorial_3.ipynb", "r") as f:
         nb = nbformat.read(f, as_version=4)
 
     # Process the notebook
@@ -64,7 +64,7 @@ def test_notebook4(tmpdir):
     """Test the notebook."""
     tmp = tmpdir.mkdir('sub')
     # Open the notebook
-    with open("index_plm_tutorial_4.ipynb", "r") as f:
+    with open("acute_plm_tutorial_4.ipynb", "r") as f:
         nb = nbformat.read(f, as_version=4)
 
     # Process the notebook
