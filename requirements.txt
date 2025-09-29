@@ -1,2 +1,3 @@
 ipympl
 plantcv
+pandas < 2.0
